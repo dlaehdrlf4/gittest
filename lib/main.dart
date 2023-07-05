@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+//주석을 걸었습니다 로그 확인해주세요.
 void main() {
   runApp(const MyApp());
 }
